@@ -1,0 +1,1 @@
+eto vetka vladicka
