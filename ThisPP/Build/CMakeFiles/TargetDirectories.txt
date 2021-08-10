@@ -1,6 +1,0 @@
-/home/dialog/project/project_dialogue/ThisPP/Build/CMakeFiles/rebuild_cache.dir
-/home/dialog/project/project_dialogue/ThisPP/Build/CMakeFiles/edit_cache.dir
-/home/dialog/project/project_dialogue/ThisPP/Build/CMakeFiles/main.dir
-/home/dialog/project/project_dialogue/ThisPP/Build/biscuit/CMakeFiles/rebuild_cache.dir
-/home/dialog/project/project_dialogue/ThisPP/Build/biscuit/CMakeFiles/edit_cache.dir
-/home/dialog/project/project_dialogue/ThisPP/Build/biscuit/CMakeFiles/libbiscuit.dir

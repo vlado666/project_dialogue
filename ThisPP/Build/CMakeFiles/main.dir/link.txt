@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/main.dir/main.cpp.o -o main  -Wl,-rpath,/home/dialog/project/project_dialogue/ThisPP/Build/biscuit biscuit/liblibbiscuit.so 
