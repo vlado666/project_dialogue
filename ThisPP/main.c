@@ -1,7 +1,6 @@
-#include <iostream>
-using namespace std;
+#include "biscuit/wont.h"
 
 int main(){
-    cin >> int a
-    IWantCookes(a)
+    IWantCookes();
+    return 0;
 }
