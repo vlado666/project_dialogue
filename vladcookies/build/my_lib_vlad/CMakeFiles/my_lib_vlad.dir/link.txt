@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libmy_lib_vlad.so -o libmy_lib_vlad.so CMakeFiles/my_lib_vlad.dir/input.c.o 

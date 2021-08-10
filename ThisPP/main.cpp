@@ -1,4 +1,4 @@
-#include "biscuit/want.h"
+#include "want.h"
 
 int main(){
     IWantCookes();

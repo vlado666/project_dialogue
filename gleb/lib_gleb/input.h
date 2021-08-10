@@ -1,5 +1,6 @@
 #ifndef INPUT_H
-#define INPUP_H
+#define INPUT_H
 
-void SayName();
+void SayName(const char *name);
+
 #endif
