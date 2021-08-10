@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/main.dir/main.c.o -o main  -Wl,-rpath,/home/dialog/project_dialogue/vladcookies/build/my_lib_vlad my_lib_vlad/libmy_lib_vlad.so 

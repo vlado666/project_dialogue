@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dialog/project_dialogue/vladcookies/my_lib_vlad/input.c
+stdio.h
+-
+input.h
+/home/dialog/project_dialogue/vladcookies/my_lib_vlad/input.h
+
+/home/dialog/project_dialogue/vladcookies/my_lib_vlad/input.h
+
