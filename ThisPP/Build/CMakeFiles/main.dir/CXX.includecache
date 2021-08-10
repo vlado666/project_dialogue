@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dialog/project/project_dialogue/ThisPP/biscuit/want.h
+
+/home/dialog/project/project_dialogue/ThisPP/main.cpp
+biscuit/want.h
+/home/dialog/project/project_dialogue/ThisPP/biscuit/want.h
+
